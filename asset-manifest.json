@@ -25,16 +25,9 @@
     "static/media/yopilou.png": "/static/media/yopilou.601ac072.png"
   },
   "entrypoints": [
-<<<<<<< HEAD
-    "static/js/runtime-main.f08645f9.js",
-    "static/js/2.7ed1f915.chunk.js",
-    "static/css/main.23aec8ba.chunk.css",
-    "static/js/main.f4bcf013.chunk.js"
-=======
     "static/js/runtime-main.313b0a5d.js",
     "static/js/2.734829cd.chunk.js",
     "static/css/main.0c525ce5.chunk.css",
     "static/js/main.701403d9.chunk.js"
->>>>>>> 64d02ddbd0208ebb15b833f9c18578d32e331601
   ]
 }
