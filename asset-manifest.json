@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.35351a25.chunk.css",
-    "main.js": "/static/js/main.046119ed.chunk.js",
-    "main.js.map": "/static/js/main.046119ed.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.61c34556.js",
-    "runtime-main.js.map": "/static/js/runtime-main.61c34556.js.map",
-    "static/js/2.9ef87e11.chunk.js": "/static/js/2.9ef87e11.chunk.js",
-    "static/js/2.9ef87e11.chunk.js.map": "/static/js/2.9ef87e11.chunk.js.map",
-    "static/js/3.8fe15ecc.chunk.js": "/static/js/3.8fe15ecc.chunk.js",
-    "static/js/3.8fe15ecc.chunk.js.map": "/static/js/3.8fe15ecc.chunk.js.map",
+    "main.css": "/static/css/main.99132ad2.chunk.css",
+    "main.js": "/static/js/main.09eb24a3.chunk.js",
+    "main.js.map": "/static/js/main.09eb24a3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4e7008e9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4e7008e9.js.map",
+    "static/js/2.9bfca3d5.chunk.js": "/static/js/2.9bfca3d5.chunk.js",
+    "static/js/2.9bfca3d5.chunk.js.map": "/static/js/2.9bfca3d5.chunk.js.map",
+    "static/js/3.30a554e9.chunk.js": "/static/js/3.30a554e9.chunk.js",
+    "static/js/3.30a554e9.chunk.js.map": "/static/js/3.30a554e9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9c0b4f40a61148f233e42e158f174760.js": "/precache-manifest.9c0b4f40a61148f233e42e158f174760.js",
+    "precache-manifest.a49022560804b5d1481299b004e40cdc.js": "/precache-manifest.a49022560804b5d1481299b004e40cdc.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.35351a25.chunk.css.map": "/static/css/main.35351a25.chunk.css.map",
-    "static/js/2.9ef87e11.chunk.js.LICENSE.txt": "/static/js/2.9ef87e11.chunk.js.LICENSE.txt",
+    "static/css/main.99132ad2.chunk.css.map": "/static/css/main.99132ad2.chunk.css.map",
+    "static/js/2.9bfca3d5.chunk.js.LICENSE.txt": "/static/js/2.9bfca3d5.chunk.js.LICENSE.txt",
     "static/media/al.png": "/static/media/al.015c1783.png",
     "static/media/style.scss": "/static/media/illustration-section-clover.2735ae27.svg",
     "static/media/denzel.png": "/static/media/denzel.d6cee3bd.png",
@@ -22,12 +22,14 @@
     "static/media/ladouille.png": "/static/media/ladouille.8758d232.png",
     "static/media/leprechaun.png": "/static/media/leprechaun.758c22b5.png",
     "static/media/safe.png": "/static/media/safe.7a853ff6.png",
+
+    "static/media/video-placeholder.jpg": "/static/media/video-placeholder.a622fc5d.jpg",
     "static/media/yopilou.png": "/static/media/yopilou.601ac072.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.61c34556.js",
-    "static/js/2.9ef87e11.chunk.js",
-    "static/css/main.35351a25.chunk.css",
-    "static/js/main.046119ed.chunk.js"
+    "static/js/runtime-main.4e7008e9.js",
+    "static/js/2.9bfca3d5.chunk.js",
+    "static/css/main.99132ad2.chunk.css",
+    "static/js/main.09eb24a3.chunk.js"
   ]
 }
