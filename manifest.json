@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "LuckyChain",
+  "name": "The web site of the LuckyChain coin.",
   "icons": [
     {
       "src": "favicon.ico",
